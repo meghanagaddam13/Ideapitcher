@@ -1,0 +1,63 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore environment files
+.env
+*.env
+venv/
+.envrc
+*.sh
+
+# Ignore API keys or sensitive config files
+config.json
+secrets.json
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore logs and debugging files
+logs/
+*.log
+debug.log
+
+# Ignore Python virtual environment folders
+venv/
+env/
+
+# Ignore PyCharm IDE files
+.idea/
+
+# Ignore node_modules (if any JS is used)
+node_modules/
+
+# Ignore large dataset files (if applicable)
+*.csv
+*.db
+*.sqlite
+*.h5
+
+# Ignore compiled binaries (if any)
+*.exe
+*.dll
+*.so
+*.dylib
+
+https://github.com/meghanagaddam13/Ideapitcher.git
